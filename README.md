@@ -64,6 +64,74 @@ Visora may be useful for:
 
 ## About This Repository
 
+## Usage Examples
+
+Here are a few examples of how AI photo editing prompts can be used to create different visual styles.
+
+### 1. Create a Romantic Couple Photo Collage
+
+**Goal:** Turn couple photos into a cohesive romantic collage.
+
+**Example prompt:**
+
+```text
+Create a romantic multi-photo collage featuring the people in the reference images. Use a soft cinematic color palette, natural lighting, elegant compositions, and consistent facial features. Arrange the photos into a visually balanced editorial-style layout.
+```
+
+**How to use:**
+1. Open [AI Photo Collage Prompts](https://aiphotoeditingprompts.online/prompts/category/ai-photo-collage-prompts).
+2. Choose a collage style.
+3. Copy and customize the prompt.
+4. Use it with a compatible AI image model.
+
+### 2. Transform a Portrait Photo
+
+**Goal:** Give an existing portrait a cinematic editorial look.
+
+**Example prompt:**
+
+```text
+Transform the uploaded portrait into a cinematic editorial photograph. Preserve the person's facial identity and natural facial features. Apply professional studio lighting, refined color grading, realistic skin texture, and a sophisticated photographic composition.
+```
+
+**How to use:**
+1. Upload a portrait to an AI image editing tool.
+2. Paste the editing prompt.
+3. Choose a compatible image model.
+4. Generate and refine the result.
+
+### 3. Generate a New Creative Image
+
+**Goal:** Create a new image from a text description without uploading a reference photo.
+
+**Example prompt:**
+
+```text
+A futuristic editorial portrait in a minimalist architectural environment, dramatic soft lighting, subtle reflections, premium fashion photography, sophisticated composition, realistic details, and a cinematic atmosphere.
+```
+
+**How to use:**
+1. Open the [Visora AI Photo Editing Tool](https://aiphotoeditingprompts.online/ai-photo-editing).
+2. Enter your creative prompt.
+3. Select a supported AI model.
+4. Generate your image.
+
+### 4. Explore Different Creative Styles
+
+You can also experiment with:
+
+| Style | Creative direction |
+|---|---|
+| Retro Photography | 1980s and 1990s film aesthetics |
+| Figurine Box | Collectible toy packaging concepts |
+| Cartoon Portraits | Stylized illustrated portraits |
+| Cinematic Photography | Dramatic lighting and movie-inspired compositions |
+| Photo Collages | Multi-image layouts and editorial grids |
+
+Browse more ideas in the [Visora prompt library](https://aiphotoeditingprompts.online/prompts).
+
+**Tip:** AI models interpret prompts differently. Adjust the wording, reference images, and model settings to get the result you want.
+
 This repository introduces Visora and provides an overview of its AI photo editing prompt resources and image creation tools.
 
 For more prompt ideas and creative inspiration, visit:
